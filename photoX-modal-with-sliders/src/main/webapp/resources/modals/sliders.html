@@ -1,0 +1,22 @@
+<link type="text/css" rel="stylesheet" href="../../resources/css/nouislider.min.css">
+<script src="../../resources/build/javascript/jquery.min.js"></script>
+<script src="../../resources/build/javascript/jquery-ui.min.js"></script>
+<script src="../../resources/javascript/nouislider.min.js"></script>
+
+<div id="slidersModal" modaldraggable>
+
+    <div class="modal-body">
+        <div style="text-align: center">
+            <h3 style="display: inline;">Color Models</h3>
+            <button class="btn btn-danger btn-xs" ng-click="$close()" style="float: right; display:block; margin-right:0px; clear:left;">&times;</button>
+        </div>
+
+        <div>
+            <uib-tabset active="active">
+                <uib-tab ng-repeat="tab in tabs" index="$index" heading="{{tab.title}}">
+                    <div ng-include="tab.templateUrl"></div>
+                </uib-tab>
+            </uib-tabset>
+        </div>
+    </div>
+</div>

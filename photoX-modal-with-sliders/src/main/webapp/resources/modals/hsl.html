@@ -1,0 +1,53 @@
+<link type="text/css" rel="stylesheet" href="../../resources/css/nouislider.min.css">
+<script src="../../resources/build/javascript/jquery.min.js"></script>
+<script src="../../resources/build/javascript/jquery-ui.min.js"></script>
+<script src="../../resources/javascript/nouislider.min.js"></script>
+
+<div id="hslModal" ng-controller="postHsl" ng-init="initHsl()">
+    <div class="modal-body">
+        <div class="row-fluid">
+
+            <div class="sliderTitle">
+                <h4 class="sliderText">Hue:</h4>
+                <h4 class="sliderValue">
+                    <input id="showHue" style="border: 0px; width: 100px"/>
+                </h4>
+            </div>
+            <div class="sliders">
+                <div class="label">-180</div>
+                <div class="slider" id="hue-slider"></div>
+                <div class="label">180</div>
+            </div>
+
+            <div class="sliderTitle">
+                <h4 class="sliderText">Saturation:</h4>
+                <h4 class="sliderValue">
+                    <input id="showSaturation" style="border: 0px; width: 100px"/>
+                </h4>
+            </div>
+            <div class="sliders">
+                <div class="label">-1</div>
+                <div class="slider" id="saturation-slider"></div>
+                <div class="label">1</div>
+            </div>
+
+            <div class="sliderTitle">
+                <h4 class="sliderText" style="float: left;">Lightness:</h4>
+                <h4 class="sliderValue">
+                    <input id="showLightness" style="border: 0px; width: 100px"/>
+                </h4>
+            </div>
+            <div class="sliders">
+                <div class="label">-1</div>
+                <div class="slider" id="lightness-slider"></div>
+                <div class="label">1</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-footer">
+        <button class="btn btn-success" ng-click="sendHsl()">Do it</button>
+        <button class="btn btn-warning" ng-click="resetHslValues()">Reset</button>
+        <button class="btn btn-danger" ng-click="$close()">Close</button>
+    </div>
+</div>

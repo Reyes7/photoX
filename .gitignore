@@ -1,0 +1,7 @@
+photoX-modal-with-sliders/*.iml
+photoX-modal-with-sliders/.idea
+photoX-modal-with-sliders/node
+photoX-modal-with-sliders/node_modules
+photoX-modal-with-sliders/bower_components
+photoX-modal-with-sliders/src/main/webapp/resources/build
+photoX-modal-with-sliders/target

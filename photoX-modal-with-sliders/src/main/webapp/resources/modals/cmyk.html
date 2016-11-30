@@ -1,0 +1,65 @@
+<link type="text/css" rel="stylesheet" href="../../resources/css/nouislider.min.css">
+<script src="../../resources/build/javascript/jquery.min.js"></script>
+<script src="../../resources/build/javascript/jquery-ui.min.js"></script>
+<script src="../../resources/javascript/nouislider.min.js"></script>
+
+<div id="cmykModal" ng-controller="postCmyk" ng-init="initCmyk()">
+    <div class="modal-body">
+        <div class="row-fluid">
+
+            <div class="sliderTitle">
+                <h4 class="sliderText">Cyan:</h4>
+                <h4 class="sliderValue">
+                    <input id="showCyan" style="border: 0px; width: 100px"/>
+                </h4>
+            </div>
+            <div class="sliders">
+                <div class="label">-1</div>
+                <div class="slider" id="cyan-slider"></div>
+                <div class="label">1</div>
+            </div>
+
+            <div class="sliderTitle">
+                <h4 class="sliderText">Magenta:</h4>
+                <h4 class="sliderValue">
+                    <input id="showMagenta" style="border: 0px; width: 100px"/>
+                </h4>
+            </div>
+            <div class="sliders">
+                <div class="label">-1</div>
+                <div class="slider" id="magenta-slider"></div>
+                <div class="label">1</div>
+            </div>
+
+            <div class="sliderTitle">
+                <h4 class="sliderText">Yellow:</h4>
+                <h4 class="sliderValue">
+                    <input id="showYellow" style="border: 0px; width: 100px"/>
+                </h4>
+            </div>
+            <div class="sliders">
+                <div class="label">-1</div>
+                <div class="slider" id="yellow-slider"></div>
+                <div class="label">1</div>
+            </div>
+
+            <div class="sliderTitle">
+                <h4 class="sliderText">blacK:</h4>
+                <h4 class="sliderValue">
+                    <input id="showBlack" style="border: 0px; width: 100px"/>
+                </h4>
+            </div>
+            <div class="sliders">
+                <div class="label">-1</div>
+                <div class="slider" id="black-slider"></div>
+                <div class="label">1</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="sendCmyk()">Do it</button>
+        <button class="btn btn-warning" ng-click="resetCmykValues()">Reset</button>
+        <button class="btn btn-success" ng-click="">Ok</button>
+    </div>
+</div>
