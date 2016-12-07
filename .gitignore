@@ -1,3 +1,5 @@
+*.idea
+
 photoX-modal-with-sliders/*.iml
 photoX-modal-with-sliders/*.idea
 photoX-modal-with-sliders/node
