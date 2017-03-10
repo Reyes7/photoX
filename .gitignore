@@ -7,3 +7,7 @@ photoX-modal-with-sliders/node_modules
 photoX-modal-with-sliders/bower_components
 photoX-modal-with-sliders/src/main/webapp/resources/build
 photoX-modal-with-sliders/target
+
+photoX-contrast-brightness-gamma/*.iml
+photoX-contrast-brightness-gamma/*.idea
+photoX-contrast-brightness-gamma/target

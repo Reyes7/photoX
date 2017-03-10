@@ -1,6 +1,6 @@
 #How to create draggable modal with sliders
 <p align="center">
-    <img src="http://drive.google.com/uc?export=view&id=0B3jGohC18ZF5dXRGSVNYdkx6NHc" width="600">
+    <img src="http://drive.google.com/uc?export=view&id=0B3jGohC18ZF5dXRGSVNYdkx6NHc" width="500">
 </p>
 
 ##How it works ?
