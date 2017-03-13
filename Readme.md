@@ -10,6 +10,12 @@ shows example how to create a simple Bootstrap modal window with sliders in thei
 functionality thereby you can move the sliders window in your browser area. Also how to integrate Grunt and Bower
 tools with Maven build.
 
-* [How to change contrast brightness and gamma in java](https://github.com/Reyes7/photoX/tree/master/photoX-modal-with-sliders)
-* [log execution time of method with AOP](https://github.com/Reyes7/photoX/tree/master/photoX-modal-with-sliders)
+* [contrast-brightness-gamma](https://github.com/Reyes7/photoX/tree/master/photoX-modal-with-sliders) - Section
+shows example how to change contrast, brightness and gamma of image in Java. Algorithm has been optimized using
+Lookup table.
+
+* [color-models](https://github.com/Reyes7/photoX/tree/master/photoX-color-models) - Module contains implementation
+the most popular color models such as: CMYK, HSL, CIE L a b, CIE L u v.
+
+* [log execution time of method with AOP]()
 * []
