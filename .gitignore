@@ -11,3 +11,7 @@ photoX-modal-with-sliders/target
 photoX-contrast-brightness-gamma/*.iml
 photoX-contrast-brightness-gamma/*.idea
 photoX-contrast-brightness-gamma/target
+
+photoX-color-models/*.iml
+photoX-color-models/*.idea
+photoX-color-models/target
