@@ -1,9 +1,9 @@
-#photoX
+# photoX
 
-#####[project link](https://masterdegreephotos.herokuapp.com/)
-#####[page about project](https://masters-degree-photo-s.aerobatic.io/)
+##### [project link](https://masterdegreephotos.herokuapp.com/)
+##### [page about project](https://masters-degree-photo-s.aerobatic.io/)
 
-##Sample code:
+## Sample code:
 
 * [modal-with-sliders](https://github.com/Reyes7/photoX/tree/master/photoX-modal-with-sliders) - This section
 shows example how to create a simple Bootstrap modal window with sliders in their area and how add draggable
