@@ -1,7 +1,11 @@
 # photoX
 
 ##### [project link](https://masterdegreephotos.herokuapp.com/)
-##### [page about project](https://masters-degree-photo-s.aerobatic.io/)
+
+## Used technologies and frameworks:
+
+[![technologies]](link)
+
 
 ## Sample code:
 
@@ -18,4 +22,3 @@ Lookup table.
 the most popular color models such as: CMYK, HSL, CIE L a b, CIE L u v.
 
 * [log execution time of method with AOP]()
-* []

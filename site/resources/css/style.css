@@ -1,0 +1,10 @@
+.container .jumbotron {
+    margin-top: 20px;
+    border-radius: 6px;
+    /*border: 4px #2b81af solid;*/
+    background-color:#fff;
+}
+
+.glyphicon {
+    font-size: 50px;
+}
