@@ -4,8 +4,14 @@
 
 ## Used technologies and frameworks:
 
-[![technologies]](https://github.com/Reyes7/photoX/blob/master/site/index.html)
+# Backend:
 
+| <p align="center">                                                                                    | <p align="center">                                                                                  | <p align="center">                                                                                 |
+|       <img src="http://drive.google.com/uc?export=view&id=0B3jGohC18ZF5NndWeWZ6QUZXRTA" height="120"> |      <img src="http://drive.google.com/uc?export=view&id=0B3jGohC18ZF5WFpac2RNejNIOEU" height="120">|     <img src="http://drive.google.com/uc?export=view&id=0B3jGohC18ZF5Q0F3c1RPb3B5TVU" height="120">|
+| </p>                                                                                                  | </p>                                                                                                | </p>                                                                                               |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+
+# Frontend:
 
 ## Sample code:
 
