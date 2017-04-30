@@ -4,7 +4,7 @@
 
 ## Used technologies and frameworks:
 
-[![technologies]](link)
+[![technologies]](https://github.com/Reyes7/photoX/blob/master/site/index.html)
 
 
 ## Sample code:
