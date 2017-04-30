@@ -2,6 +2,11 @@
 
 ##### [project link](https://masterdegreephotos.herokuapp.com/)
 
+## Table of contents:
+  * [Table of contents](#table-of-contents)
+  * [Used technologies and frameworks](#used-technologies-and-frameworks)
+  * [Sample code](#sample-code)
+
 ## Used technologies and frameworks:
 
 ### Backend:
@@ -30,4 +35,4 @@ Lookup table.
 * [color-models](https://github.com/Reyes7/photoX/tree/master/photoX-color-models) - Module contains implementation
 the most popular color models such as: CMYK, HSL, CIE L a b, CIE L u v.
 
-* [log execution time of method with AOP]()
+## Tests:
